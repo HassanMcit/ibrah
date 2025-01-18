@@ -900,7 +900,7 @@ video {
 }
 
 .bg-hero {
-  background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('image/hero-bg.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('../image/hero-bg.jpg');
 }
 
 .p-10 {
@@ -1112,7 +1112,7 @@ video {
 }
 
 .dark\:bg-heroDark:where(.dark, .dark *) {
-  background-image: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.8)),url('image/hero-bg.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.8)),url('../image/hero-bg.jpg');
 }
 
 .dark\:text-gray-400:where(.dark, .dark *) {
